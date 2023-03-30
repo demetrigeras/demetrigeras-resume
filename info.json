@@ -1,0 +1,26 @@
+{
+    "name": "Demetri Geras",
+    "website": "https://demetrigeras.github.io/",
+    "linkedin": "https://www.linkedin.com/in/demetri-geras/",
+    "github": "demetrigeras",
+    "email": "demetrijgeras@gmail.com",
+    "resume": "https://.github.io/assets/.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Adaptability",
+        "Collaboration",
+        "Analytical Reasoning"
+    ]
+}
